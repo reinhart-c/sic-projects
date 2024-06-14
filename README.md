@@ -1,1 +1,1 @@
-# sic-projects
+# Samsung Innovation Campus Projects and Tasks
