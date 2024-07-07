@@ -1,1 +1,1 @@
-# Tehnical Assignment 1 (WIP)
+# Tehnical Assignment 1
